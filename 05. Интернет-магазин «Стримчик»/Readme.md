@@ -30,7 +30,3 @@
 ## Стек технологий:
 
 Pandas, matplotlib, numpy, scipy, seaborn
-
-## Статус проекта:
-
-Завершен.
